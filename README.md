@@ -3,26 +3,28 @@
 This is a *cellular automata(CA)* land use change simulation winform application.
 It includes four different CA algorithms.
 There are:
-1. random forest ca
-2. neural network ca
-3. decision tree ca
-4. logistic regression ca
+1. *random forest ca*
+2. *neural network ca*
+3. *decision tree ca*
+4. *logistic regression ca*
+
 **please reference releated paper for the detail of these four algorithms**
 
 You can try all of them and choose one that is sutiable for your requirements.
 
-## techonologies stack
+## techonology stack
 
 - GUI: c# winform
 - data io: gdal
-- machine learning algorithm: accord
+- machine learning module: accord
 
-The program is designed with oop(object oriented programming) and we use multithread technology to improve performance.
+The program is designed with *oop*(object oriented programming) and we use *multithread* technology to improve performance.
 
 ## usage
 
-please refer [usage manual](https://github.com/zhuang-hao-ming/winca/blob/master/doc/manual.pdf) for a pdf usage manual.
-please refer [tutorial video](https://github.com/zhuang-hao-ming/winca/blob/master/doc/usage_tutorial.wmv) for a tutorial vedio.
+Please refer [usage manual](https://github.com/zhuang-hao-ming/winca/blob/master/doc/manual.pdf) for a pdf usage manual.
+
+Please refer [tutorial video](https://github.com/zhuang-hao-ming/winca/blob/master/doc/usage_tutorial.wmv) for a tutorial vedio.
 
 ## development
 
