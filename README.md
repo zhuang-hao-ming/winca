@@ -6,9 +6,13 @@
 
 ## techonologies stack
 
+- GUI: c# winform
+- data io: gdal
+- machine learning algorithm: accord
+
 ## usage
 
-
+please refer the 
 
 ## development
 
@@ -22,3 +26,26 @@ git clone https://github.com/zhuang-hao-ming/winca.git
 
 ## screen shot
 
+- main window:
+
+![main window](https://github.com/zhuang-hao-ming/winca/blob/master/doc/screen_shot/main_window.jpg)
+
+- setup window:
+
+![setup window](https://github.com/zhuang-hao-ming/winca/blob/master/doc/screen_shot/random_forest.jpg)
+
+- setup window landuse:
+
+![setup window landuse](https://github.com/zhuang-hao-ming/winca/blob/master/doc/screen_shot/landuse.jpg)
+
+- setup window transfer control
+
+![transfer control](https://github.com/zhuang-hao-ming/winca/blob/master/doc/screen_shot/transfer_control.jpg)
+
+- console
+
+![console](https://github.com/zhuang-hao-ming/winca/blob/master/doc/screen_shot/console.jpg)
+
+- animation
+
+![animation](https://github.com/zhuang-hao-ming/winca/blob/master/doc/screen_shot/running.jpg)
