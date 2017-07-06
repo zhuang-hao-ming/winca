@@ -1,8 +1,15 @@
 # cellular automata land use change simulation winform application
 
-这是一个元胞自动机土地利用变化模拟的winform应用程序。程序提供了*随机森林ca*，*神经网络ca*，*决策树ca*,*逻辑回归ca*共4种不同的元胞自动机土地利用变化模拟算法（算法细节请参阅对应论文）。
+This is a *cellular automata(CA)* land use change simulation winform application.
+It includes four different CA algorithms.
+There are:
+1. random forest ca
+2. neural network ca
+3. decision tree ca
+4. logistic regression ca
+**please reference releated paper for the detail of these four algorithms**
 
-
+You can try all of them and choose one that is sutiable for your requirements.
 
 ## techonologies stack
 
@@ -10,9 +17,11 @@
 - data io: gdal
 - machine learning algorithm: accord
 
+
 ## usage
 
-please refer the 
+please refer [usage manual](https://github.com/zhuang-hao-ming/winca/blob/master/doc/manual.pdf) for a pdf usage manual.
+please refer [tutorial video](https://github.com/zhuang-hao-ming/winca/blob/master/doc/usage_tutorial.wmv) for a tutorial vedio.
 
 ## development
 
