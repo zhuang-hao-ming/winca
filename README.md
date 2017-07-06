@@ -17,6 +17,7 @@ You can try all of them and choose one that is sutiable for your requirements.
 - data io: gdal
 - machine learning algorithm: accord
 
+The program is designed with oop(object oriented programming) and we use multithread technology to improve performance.
 
 ## usage
 
@@ -25,13 +26,13 @@ please refer [tutorial video](https://github.com/zhuang-hao-ming/winca/blob/mast
 
 ## development
 
-- 使用git clone将项目克隆到本地
+- clone the repository to local using git clone
 ```
 git clone https://github.com/zhuang-hao-ming/winca.git
 ```
-- 使用vs2015(要求支持使用packages.config管理nuget包)打开.sln文件
-- 右键单击solution在弹出菜单中点击还原nuget包
-- build项目
+- open the .sln file in visual studio 2015(or other versions that use a packages.config file to manage nuget)
+- right click the solution and choose restore nuget packages
+- build and run the project
 
 ## screen shot
 
