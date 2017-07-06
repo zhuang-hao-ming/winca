@@ -36,7 +36,7 @@ git clone https://github.com/zhuang-hao-ming/winca.git
 - right click the solution and choose restore nuget packages
 - build and run the project
 
-## screen shot
+## screenshots
 
 - main window:
 
