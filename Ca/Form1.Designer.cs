@@ -94,7 +94,7 @@
             this.Controls.Add(this.textBoxConsole);
             this.Controls.Add(this.randomForestCa);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "winca";
             this.ResumeLayout(false);
             this.PerformLayout();
 
